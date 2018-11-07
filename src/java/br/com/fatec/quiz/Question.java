@@ -36,5 +36,9 @@ public class Question {
     public void setAlternatives(String[] alternatives) {
         this.alternatives = alternatives;
     }
+   
+    
+    
+    
     
 }
