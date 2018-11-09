@@ -1,0 +1,50 @@
+<%@ page pageEncoding="UTF-8" %>
+<!------ Include the above in your HEAD tag ---------->
+
+<link rel="stylesheet" href="css/footer.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">   
+    
+<footer style="background-color: #212529" ><br>
+    <h5 align="center" id="rodape" style="color: #b1aca1">Contato da Equipe no GitHub </h5>
+
+        <div class="footer-top"> 
+           <div class="container">
+               
+        <ul class="nav">
+            <li class="nav-item">
+    <a class="nav-link disabled" href="https://github.com/Baden286/Projeto5"><i class="fa fa-github fa-2x"></i>Repositório do Projeto</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="https://github.com/baden286"><i class="fa fa-github fa-2x"></i>Baden L. Damasio</a>
+  </li>
+ <li class="nav-item">
+     <a class="nav-link disabled" href="https://github.com/CaioFugii"><i class="fa fa-github fa-2x"></i>Caio V. O. Fugii</a>
+  </li>
+  <li class="nav-item">
+      <a class="nav-link disabled" href="https://github.com/minemap1"><i class="fa fa-github fa-2x"></i>Pablo M. de Oliveira</a>
+  </li>
+  <li class="nav-item">
+      <a class="nav-link disabled" href="https://github.com/renansouza0161"><i class="fa fa-github fa-2x"></i>Renan dos S. Souza</a>
+  </li>
+        </ul><br>
+               
+           </div> 
+        </div>  
+        
+            </div>
+        </div>
+        
+    </footer>
+    
+    
+    <div class="copyright">
+     <div class="container">
+       
+         <div align="center">
+         	<p>Copyright © 2018 All rights reserved</p>
+         </div>
+         
+ 	   </div>
+    </div>
+    

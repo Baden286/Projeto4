@@ -1,0 +1,29 @@
+<div style="background: #cccccc; padding: 1px">
+                
+  <table style="margin-top: 20px"> 
+      <tr>
+      <td>
+  <div class="card" style="width: 25rem;">
+      <div class="card-body" style="color: #ccccff; height: 100px">
+    <h5 class="card-title">Passo 1:</h5>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAETSURBVEhL7dbLDsFAGIbhXp6EoLfDuAILdnb2tqJGkFi4ABEROxJ2TnGqQ0R/PmnTSrvojM5G/cm7aKadp6SL0eI7WWaksoxv0zmDVIS99RxP2pw7GcY3hdqcinynJOytM762OXfwVkEPRBkMm3PnD6voN+FSe0/T5Z2MoelbUwYDna3uhDleHlR+XXvXlcBe9HS1qNo/+O6JHA6DokjhsCgSgiu9A9UH/g8FiaAoNIyPY2s+yLKIWqPzx5ooioR+cW9yeW/uxWVQJAQjL94dn6VQJAwjB3dGFEVSMHJw8yaOImkYdV5/tQyKvoK/6Q+/J34wjrestgh8IIqwd+DxFoftDGtu8FYqAqrnGwmbi91o2hMsSkLLZG1jPQAAAABJRU5ErkJggg==">
+  </div>
+  </div>
+      </td><td>
+  <div class="card" style="width: 25rem; color: #6699ff">
+  <div class="card-body">
+    <h5 class="card-title">Passo 2:</h5>
+    <p class="card-text">Registre-se</p>
+  </div>
+  </div>
+      </td><td>         
+  <div class="card" style="width: 25rem; color: #ccccff">
+  <div class="card-body">
+    <h5 class="card-title">Passo 3:</h5>
+    <p class="card-text">Responda o questionário</p>
+  </div>
+  </div>
+      </td></tr>
+  </table>                
+  <br>
+    </div>

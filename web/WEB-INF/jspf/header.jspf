@@ -1,0 +1,30 @@
+<div style="background: #cccccc; margin: -24px; padding: 1px">
+                
+  <table style="margin-top: 20px;" > 
+      <tr>
+      <td>
+  <div class="card" style="width: 25rem;">
+      <div class="card-body" style="color:  #6699ff; height: 100px">
+    <h5 class="card-title">Passo 1:</h5>
+    <p class="card-text">Clique para começar <a href="session.jsp"> <button class="btn" style="background: #6699ff"> Entrar</button></a>  
+</p>
+  </div>
+  </div>
+      </td><td>
+  <div class="card" style="width: 25rem; color: #ccccff">
+  <div class="card-body">
+    <h5 class="card-title">Passo 2:</h5>
+    <p class="card-text">Registre-se</p>
+  </div>
+  </div>
+      </td><td>         
+  <div class="card" style="width: 25rem; color: #ccccff">
+  <div class="card-body">
+    <h5 class="card-title">Passo 3:</h5>
+    <p class="card-text" >Responda o questionário</p>
+  </div>
+  </div>
+      </td></tr>
+  </table>                
+  <br>
+            </div>
